@@ -9,4 +9,4 @@ Blue Rabbit's main menu design
 
 ![image05](https://github.com/user-attachments/assets/07c4a027-6905-4361-adb5-f09c6d95b4ec)
 
-The icon and image reference links are in the PDF file.
+Source References for Images, Icons, and Emojis are in the PDF file.
